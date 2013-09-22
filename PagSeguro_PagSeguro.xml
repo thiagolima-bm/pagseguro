@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <config>
-    <modules>
-        <Pagseguro_Pagseguro>
-            <active>true</active>
-            <codePool>local</codePool>
-        </Pagseguro_Pagseguro>
-        <depends>
-            <Mage_Payment />
-            <Mage_Checkout/>
-        </depends>
-    </modules>
+	<modules>
+		<PagSeguro_PagSeguro>
+			<active>true</active>
+			<codePool>local</codePool>
+			<depends>
+				<Mage_Payment />
+			</depends>
+		</PagSeguro_PagSeguro>
+	</modules>
 </config>
