@@ -1,4 +1,4 @@
 
 # Pagseguro_Pagseguro
-code                   				app/code/local/Pagseguro/Pagseguro/
-Pagseguro_Pagseguro.xml         	app/etc/modules/Pagseguro_Pagseguro.xml
+code                   				app/code/local/PagSeguro/PagSeguro/
+PagSeguro_PagSeguro.xml         	app/etc/modules/PagSeguro_PagSeguro.xml
