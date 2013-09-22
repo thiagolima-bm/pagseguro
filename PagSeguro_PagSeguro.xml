@@ -3,7 +3,7 @@
 	<modules>
 		<PagSeguro_PagSeguro>
 			<active>true</active>
-			<codePool>community</codePool>
+			<codePool>local</codePool>
 			<depends>
 				<Mage_Payment />
 			</depends>
